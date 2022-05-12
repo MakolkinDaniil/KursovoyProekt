@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Praktika</string>
+    <string name="settings">TODO</string>
+    <string name="convert">TODO</string>
+    <string name="history">Главная</string>
+    <string name="categoryR">Категории</string>
+    <string name="addCategory">Добавить</string>
+    <string name="main">Главная</string>
+    <string name="finance1">Доходы</string>
+    <string name="finance2">Расходы</string>
+    <string name="financeButton2">Расходы</string>
+    <string name="panel">TODO</string>
+    <string name="financeButton1">Доходы</string>
+    <string name="add">TODO</string>
+</resources>
